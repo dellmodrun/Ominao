@@ -573,6 +573,10 @@ svg rect { stroke: var(--terminal-ink) !important; }
     display: none;
   }
 
+  .header-ca .copy-hint {
+    display: none;
+  }
+
   .ominao-route .scope-live {
     display: none;
   }
