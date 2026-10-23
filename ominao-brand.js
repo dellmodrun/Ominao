@@ -55,9 +55,9 @@
           <a class="header-social" href="https://x.com/ominaocoin" target="_blank" rel="noreferrer" aria-label="Ominao on X">
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.724-8.83L1.254 2.25H8.08l4.26 5.662L18.244 2.25Zm-1.161 17.52h1.833L7.084 4.126H5.117l11.966 15.644Z"></path></svg>
           </a>
-          <button class="header-ca" type="button" data-ca="3q2SYVoFZf7YRGw2LuAqavBewufLByUv1AEnBZQwpump" aria-label="Copy contract address">
+          <button class="header-ca is-pending" type="button" data-ca="TBA" aria-label="Contract address not live">
             <span class="ca-label"><i></i>CA</span>
-            <span class="ca-value"><code>3q2SYVoFZf7YRGw2LuAqavBewufLByUv1AEnBZQwpump</code><small><span>LIVE</span><span class="copy-hint"> · CLICK TO COPY</span></small></span>
+            <span class="ca-value"><code>TBA</code><small>NOT LIVE</small></span>
             <span class="ca-copy" aria-hidden="true"><svg viewBox="0 0 20 20"><rect x="6.5" y="5.5" width="9" height="10" rx="1"></rect><path d="M4.5 13V4.5h8"></path></svg></span>
           </button>
         </div>`;
