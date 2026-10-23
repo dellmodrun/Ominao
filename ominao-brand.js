@@ -281,7 +281,7 @@
     return `<figure class="anatomy-card premium-architecture" id="architecture">
       <figcaption><span><b>FIG 01</b> Ominao private execution instrument</span><span class="figure-readout"><i></i> ROUTE SEALED · 5/8 ATTESTED</span></figcaption>
       <div class="machine-stage">
-        <img src="/ominao-machine.svg" alt="A precision isometric privacy execution instrument with a capability cartridge, three relay rotor modules, a threshold receipt gauge and an isolated MCP output cabinet.">
+        <img src="${internal('/ominao-machine.svg')}" alt="A precision isometric privacy execution instrument with a capability cartridge, three relay rotor modules, a threshold receipt gauge and an isolated MCP output cabinet.">
         <div class="machine-spec"><span>REV <b>OIP-001</b></span><span>DEPTH <b>03</b></span><span>COHORT <b>08</b></span><span>QUORUM <b>05</b></span></div>
       </div>
       <div class="figure-legend premium-legend"><span><b>01 · ADMISSION</b>One-time capability cartridge and membership proof</span><span><b>02 · MIX ROTORS</b>Fixed-size ciphertexts cross independently selected relays</span><span><b>03 · EXECUTION</b>Final layer opens only inside the isolated MCP gateway</span><span><b>04 · RECEIPT</b>Five witness shares seal the committed result</span></div>
