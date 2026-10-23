@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.png
+!ominao-logo.png
+_next/static/chunks/
+build-ominao-machine.mjs
